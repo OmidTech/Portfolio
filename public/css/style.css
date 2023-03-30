@@ -1,0 +1,99 @@
+body{
+   background-size: 100%;
+   background-image: url("/image/imgg.jpeg");
+}
+
+
+.logo{
+    padding-right: 60%;
+    
+}
+.logoimg{
+    
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.icon{
+    height: 5px;
+    width: 5px;
+    padding-right: 3%;
+
+}
+
+.Foter{
+    text-align: center;
+    background-color: whitesmoke;
+    position: relative;
+}
+#Home{
+    border: rgb(228, 189, 189);
+    color: rgb(2, 2, 2);
+    text-align:center;
+    
+}
+
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    border-left: cornsilk 1%;
+   
+}
+#Home h1{
+    color: rgb(17, 62, 102);
+    font-weight: 999;
+    font-size: 3rem;
+    
+}
+#Home h3{
+    color: rgb(17, 62, 102);
+    font-weight: 700;
+    
+}
+#Home button{
+    
+    margin-top: 4%;
+    padding: 1% 4% 1% 4%;
+    
+}
+.sidebar{
+    height: auto;
+    margin-top: 6%;
+    text-align: center;
+    align-content: center;
+    width: auto;
+    margin-bottom: 1%;
+}
+
+.cc{
+    margin-top: 8%;
+}
+
+
+@media (max-width: 800px) {
+    #Home{
+        position: static;
+        z-index: 1;
+    }
+    #Home h1{
+        size: 1rem;
+        font-weight: bold;
+    }
+    .sidebar{
+        position: static;
+        width: 100%;
+        margin-bottom: 2%;
+    }
+    .icon{
+        padding: 12px;
+        height: 3px;
+        width: 3px;
+    }
+    .logo{
+        padding-right: 45%;
+    }
+    .carousell{
+        height: 16rem;
+    }
+}

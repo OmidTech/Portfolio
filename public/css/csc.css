@@ -1,0 +1,25 @@
+.fi{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    position: relative;
+}
+
+.se{
+    background-color: yellow;
+    position: absolute;
+    height: 40px;
+    width: 40px;
+}
+
+.th{
+    background-color: turquoise;
+    height: 40px;
+    width: 40px;
+    z-index: -3;
+
+    
+}
+h1{
+    color: red;
+}

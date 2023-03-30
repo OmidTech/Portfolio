@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+ }
+
+ .icon1{
+     font-size: 70px;
+ }
+ #Home1{
+     background-color: rgb(237, 253, 255);
+     border: rgb(228, 189, 189);
+     color: white;
+     text-align:left;
+ }
+ .abd{
+    background-color: whitesmoke;
+    margin: 1% 3%;
+    border-radius: 5%;
+    color: black;
+    padding: 1% 4%;
+ }
+ .fd{
+     background-color: mintcream;
+ }
+
+ 
+ .myimg1{
+     height: 5in;
+     width: 4in;
+     padding-top: 2%;
+     margin-left: 14%;
+ }
+ .name1{
+     padding: 9%;
+     text-align: left;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: oblique;
+     border-left: cornsilk 1%;
+     
+     
+ }
+ #Home1 h1{
+     color: rgb(3, 39, 71);
+     font-weight: 999;
+     font-size: 3rem;
+     
+ }
+     
+ 
+ .cc1{
+     margin-left: 23%;
+ }
